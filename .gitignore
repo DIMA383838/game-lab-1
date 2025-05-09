@@ -1,0 +1,20 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Java ###
+*.class
+*.log
+*.ser
+*.cfg
+
+### System ###
+.DS_Store
+Thumbs.db
+
+### Game files ###
+/saves/
+/app.log
+/highscores.ser
+/savegame.cfg
