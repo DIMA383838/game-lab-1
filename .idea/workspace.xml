@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d261c56f-4b1f-4afb-acdf-15fd4cca8a11" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2tqmRJ1Ri7FwsKXJELs0gy2EWYs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Game.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.All in game lab 1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.shouldAttackEnemyInFront.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.shouldAttackTownHallInFront.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.shouldNotAttackWhenEmpty.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testAttackTownHall.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testComputerMovement.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testFullInputOutputCapture.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testInitialStats.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testInputOutputCapture.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testInteractiveMove.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testInvalidMovePattern.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testMoveOneCellForward.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testMoveOneCellSideways.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testMoveThroughForest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testMoveToSwamp.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testMoveTwoCellsForward.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testNoRespawnForComputer.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testRespawnAsBlackPrince.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CavalryTest.testSimpleInputOutput.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DarkKnightTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DarkKnightTest.testInitialStats.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameBoardTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.testAddComputerUnit.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.testAddPlayerUnit.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.testAddTerrain.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.testAutosaveOnTownHallDamage.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.testAutosaveWithoutMap.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.testLoadMap.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.testLoadNonExistentMap.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.testModifyExistingMap.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.testSaveAndLoadGameState.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.testSaveMap.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.testSetTownHalls.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GhostTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GhostTest.testAttackRow.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GhostTest.testAttackTownHallSameRow.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GhostTest.testMoveThroughForest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GhostTest.testValidMoves.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MageTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MageTest.testRespawnAsGhost.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UnitTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UnitTest.testInitialization.executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Repository&quot;: &quot;JAR files synchronized with repository&quot;,
+    &quot;Notification.DoNotAsk-Repository&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Downloads/slf4j-api-2.0.16.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.GameTest">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Game" />
+      <module name="game lab 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game lab 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game" />
+      <option name="MAIN_CLASS_NAME" value="game.GameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.testAutosaveWithoutMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game lab 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game" />
+      <option name="MAIN_CLASS_NAME" value="game.GameTest" />
+      <option name="METHOD_NAME" value="testAutosaveWithoutMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.testLoadMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game lab 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game" />
+      <option name="MAIN_CLASS_NAME" value="game.GameTest" />
+      <option name="METHOD_NAME" value="testLoadMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.testSaveMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game lab 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game" />
+      <option name="MAIN_CLASS_NAME" value="game.GameTest" />
+      <option name="METHOD_NAME" value="testSaveMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameTest" />
+        <item itemvalue="Application.Game" />
+        <item itemvalue="JUnit.GameTest.testAutosaveWithoutMap" />
+        <item itemvalue="JUnit.GameTest.testSaveMap" />
+        <item itemvalue="JUnit.GameTest.testLoadMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d261c56f-4b1f-4afb-acdf-15fd4cca8a11" name="Changes" comment="" />
+      <created>1741087968819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741087968819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.InvalidClassException" package="java.io" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

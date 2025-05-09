@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="log4j-api-2.24.3">
+    <CLASSES>
+      <root url="jar://D:/Downloads/log4j-api-2.24.3.jar!/" />
+      <root url="jar://D:/Downloads/log4j-core-2.24.3.jar!/" />
+      <root url="jar://D:/Downloads/log4j-slf4j2-impl-2.24.3.jar!/" />
+      <root url="jar://D:/Downloads/slf4j-api-2.0.16.jar!/" />
+      <root url="jar://D:/Downloads/org.osgi.core-6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Downloads/org.osgi.core-6.0.0.jar!/OSGI-OPT/src" />
+    </SOURCES>
+  </library>
+</component>
