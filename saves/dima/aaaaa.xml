@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameState>
+    <player>
+        <name>Player</name>
+        <townHall>
+            <x>4</x>
+            <y>0</y>
+            <health>975</health>
+            <gold>100</gold>
+        </townHall>
+        <units>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="mage" health="40" attack="25" x="1" y="1" symbol="M" id="1"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="archer" health="10" attack="25" x="2" y="0" symbol="A" id="2"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="infantry" health="35" attack="50" x="2" y="1" symbol="I" id="3"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="infantry" health="35" attack="50" x="3" y="2" symbol="I" id="4"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="infantry" health="35" attack="50" x="4" y="1" symbol="I" id="5"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cavalry" health="10" attack="30" x="4" y="5" symbol="C" id="6"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="infantry" health="35" attack="50" x="5" y="1" symbol="I" id="7"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="archer" health="10" attack="25" x="6" y="0" symbol="A" id="8"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="infantry" health="35" attack="50" x="6" y="1" symbol="I" id="9"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="mage" health="40" attack="25" x="7" y="3" symbol="M" id="10"/>
+        </units>
+    </player>
+    <computer>
+        <name>Computer</name>
+        <townHall>
+            <x>4</x>
+            <y>11</y>
+            <health>975</health>
+            <gold>100</gold>
+        </townHall>
+        <units>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="mage" health="40" attack="25" x="1" y="11" symbol="M" id="1"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="infantry" health="35" attack="50" x="2" y="6" symbol="I" id="2"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="archer" health="10" attack="25" x="2" y="11" symbol="A" id="3"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="infantry" health="35" attack="50" x="3" y="8" symbol="I" id="4"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cavalry" health="30" attack="30" x="4" y="3" symbol="C" id="5"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="infantry" health="35" attack="50" x="4" y="10" symbol="I" id="6"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="infantry" health="35" attack="50" x="5" y="8" symbol="I" id="7"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="infantry" health="35" attack="50" x="6" y="8" symbol="I" id="8"/>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="archer" health="10" attack="25" x="6" y="11" symbol="A" id="9"/>
+        </units>
+    </computer>
+    <board/>
+    <mapName>dimas</mapName>
+</gameState>
